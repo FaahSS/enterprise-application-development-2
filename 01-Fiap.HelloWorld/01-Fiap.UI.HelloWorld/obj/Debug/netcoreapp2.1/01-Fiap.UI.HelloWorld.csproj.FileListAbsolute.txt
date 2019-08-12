@@ -1,0 +1,11 @@
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\01-Fiap.HelloWorld\01-Fiap.UI.HelloWorld\bin\Debug\netcoreapp2.1\01-Fiap.UI.HelloWorld.deps.json
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\01-Fiap.HelloWorld\01-Fiap.UI.HelloWorld\bin\Debug\netcoreapp2.1\01-Fiap.UI.HelloWorld.runtimeconfig.json
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\01-Fiap.HelloWorld\01-Fiap.UI.HelloWorld\bin\Debug\netcoreapp2.1\01-Fiap.UI.HelloWorld.runtimeconfig.dev.json
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\01-Fiap.HelloWorld\01-Fiap.UI.HelloWorld\bin\Debug\netcoreapp2.1\01-Fiap.UI.HelloWorld.dll
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\01-Fiap.HelloWorld\01-Fiap.UI.HelloWorld\bin\Debug\netcoreapp2.1\01-Fiap.UI.HelloWorld.pdb
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\01-Fiap.HelloWorld\01-Fiap.UI.HelloWorld\obj\Debug\netcoreapp2.1\01-Fiap.UI.HelloWorld.csprojAssemblyReference.cache
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\01-Fiap.HelloWorld\01-Fiap.UI.HelloWorld\obj\Debug\netcoreapp2.1\01-Fiap.UI.HelloWorld.csproj.CoreCompileInputs.cache
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\01-Fiap.HelloWorld\01-Fiap.UI.HelloWorld\obj\Debug\netcoreapp2.1\01-Fiap.UI.HelloWorld.AssemblyInfoInputs.cache
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\01-Fiap.HelloWorld\01-Fiap.UI.HelloWorld\obj\Debug\netcoreapp2.1\01-Fiap.UI.HelloWorld.AssemblyInfo.cs
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\01-Fiap.HelloWorld\01-Fiap.UI.HelloWorld\obj\Debug\netcoreapp2.1\01-Fiap.UI.HelloWorld.dll
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\01-Fiap.HelloWorld\01-Fiap.UI.HelloWorld\obj\Debug\netcoreapp2.1\01-Fiap.UI.HelloWorld.pdb

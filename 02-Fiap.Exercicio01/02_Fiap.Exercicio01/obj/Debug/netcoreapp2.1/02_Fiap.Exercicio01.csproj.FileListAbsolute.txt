@@ -1,0 +1,11 @@
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\Fiap.Exercicio01\02_Fiap.Exercicio01\bin\Debug\netcoreapp2.1\02_Fiap.Exercicio01.deps.json
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\Fiap.Exercicio01\02_Fiap.Exercicio01\bin\Debug\netcoreapp2.1\02_Fiap.Exercicio01.runtimeconfig.json
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\Fiap.Exercicio01\02_Fiap.Exercicio01\bin\Debug\netcoreapp2.1\02_Fiap.Exercicio01.runtimeconfig.dev.json
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\Fiap.Exercicio01\02_Fiap.Exercicio01\bin\Debug\netcoreapp2.1\02_Fiap.Exercicio01.dll
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\Fiap.Exercicio01\02_Fiap.Exercicio01\bin\Debug\netcoreapp2.1\02_Fiap.Exercicio01.pdb
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\Fiap.Exercicio01\02_Fiap.Exercicio01\obj\Debug\netcoreapp2.1\02_Fiap.Exercicio01.csprojAssemblyReference.cache
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\Fiap.Exercicio01\02_Fiap.Exercicio01\obj\Debug\netcoreapp2.1\02_Fiap.Exercicio01.csproj.CoreCompileInputs.cache
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\Fiap.Exercicio01\02_Fiap.Exercicio01\obj\Debug\netcoreapp2.1\02_Fiap.Exercicio01.AssemblyInfoInputs.cache
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\Fiap.Exercicio01\02_Fiap.Exercicio01\obj\Debug\netcoreapp2.1\02_Fiap.Exercicio01.AssemblyInfo.cs
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\Fiap.Exercicio01\02_Fiap.Exercicio01\obj\Debug\netcoreapp2.1\02_Fiap.Exercicio01.dll
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\Fiap.Exercicio01\02_Fiap.Exercicio01\obj\Debug\netcoreapp2.1\02_Fiap.Exercicio01.pdb

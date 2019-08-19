@@ -31,3 +31,4 @@ D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATI
 D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\04-Fiap.Web.AspNet\04-Fiap.Web.AspNet\obj\Debug\netcoreapp2.1\04-Fiap.Web.AspNet.pdb
 D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\04-Fiap.Web.AspNet\04-Fiap.Web.AspNet\obj\Debug\netcoreapp2.1\04-Fiap.Web.AspNet.csproj.CopyComplete
 D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\04-Fiap.Web.AspNet\04-Fiap.Web.AspNet\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\cadastrar.g.cshtml.cs
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\04-Fiap.Web.AspNet\04-Fiap.Web.AspNet\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\listar.g.cshtml.cs

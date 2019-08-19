@@ -14,6 +14,9 @@ namespace _04_Fiap.Web.AspNet.Controllers
             return View();
         }
 
+        //Simular Banco de Dados
+        private static IList<Usuario> _banco = new List<Usuario>();
+
         [HttpGet]
         public IActionResult Cadastrar()
         {
@@ -27,8 +30,18 @@ namespace _04_Fiap.Web.AspNet.Controllers
             ViewBag.dataN = usuario.DataNascimento;
             ViewBag.email = usuario.Email;
             TempData["msg"] = "Usuário Cadastrado";
+
+            //Cadastrar no "Banco"
+            _banco.Add(usuario);
+
             //Retorna o objeto para view
             return View(usuario);
+        }
+
+        public IActionResult Listar()
+        {
+
+            return View(_banco);
         }
 
 

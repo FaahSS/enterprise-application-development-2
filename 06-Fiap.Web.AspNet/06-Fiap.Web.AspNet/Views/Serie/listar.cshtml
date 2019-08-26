@@ -1,0 +1,33 @@
+﻿@model  IList<Serie>
+@{
+    ViewData["Title"] = "listar";
+}
+
+<h1>Lista de Séries</h1>
+
+<a asp-action="Cadastrar" asp-controller="Serie">Cadastrar</a>
+    @if (TempData["msg"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["msg"]
+        </div>
+    }
+
+<table class="table">
+    <tr>
+        <th>Nome</th>
+        <th>Genero</th>
+        <th>Data de Lançamento</th>
+        <th>Temporadas</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.Nome</td>
+            <td>@item.Genero</td>
+            <td>@item.DataLancamento.ToLongDateString()</td>
+            <td>@item.Temporadas</td>
+        </tr>
+    }
+</table>
+

@@ -1,4 +1,4 @@
-﻿@model  IList<Serie>
+﻿@model IList<Serie>
 @{
     ViewData["Title"] = "listar";
 }
@@ -6,12 +6,7 @@
 <h1>Lista de Séries</h1>
 
 <a asp-action="Cadastrar" asp-controller="Serie">Cadastrar</a>
-    @if (TempData["msg"] != null)
-    {
-        <div class="alert alert-success">
-            @TempData["msg"]
-        </div>
-    }
+<message mensagem="@TempData["msg"]"></message>
 
 <table class="table">
     <tr>
@@ -20,7 +15,7 @@
         <th>Data de Lançamento</th>
         <th>Temporadas</th>
     </tr>
-    @foreach(var item in Model)
+    @foreach (var item in Model)
     {
         <tr>
             <td>@item.Nome</td>

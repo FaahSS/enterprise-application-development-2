@@ -32,3 +32,4 @@ D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATI
 D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\06-Fiap.Web.AspNet\06-Fiap.Web.AspNet\obj\Debug\netcoreapp2.1\06-Fiap.Web.AspNet.csproj.CopyComplete
 D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\06-Fiap.Web.AspNet\06-Fiap.Web.AspNet\obj\Debug\netcoreapp2.1\Razor\Views\Serie\Cadastrar.g.cshtml.cs
 D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\06-Fiap.Web.AspNet\06-Fiap.Web.AspNet\obj\Debug\netcoreapp2.1\Razor\Views\Serie\listar.g.cshtml.cs
+D:\Documentos\FIAP\Analise e Desenvolvimento de Sistemas\2F\ENTERPRISE APPLICATION DEVELOPMENT\SOLUTIONS\06-Fiap.Web.AspNet\06-Fiap.Web.AspNet\obj\Debug\netcoreapp2.1\Razor\Views\Serie\Editar.g.cshtml.cs

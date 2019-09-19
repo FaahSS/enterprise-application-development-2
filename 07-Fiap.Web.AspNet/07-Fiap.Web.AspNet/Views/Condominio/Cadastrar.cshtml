@@ -1,0 +1,16 @@
+﻿@model  Condominio
+@{
+    ViewData["Title"] = "Cadastrar";
+}
+
+<h1>Cadastrar Condomínio</h1>
+<hr />
+<div class="card">
+    <div class="card-body">
+        <form asp-controller="Condominio" asp-action="Cadastrar">
+            <partial name="_formulario" />
+            <botao valor="Cadastrar"></botao>
+        </form> 
+    </div>
+</div>
+
